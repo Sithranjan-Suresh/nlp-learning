@@ -40,7 +40,7 @@ Welcome! This repository documents my end-to-end journey learning Natural Langua
 ---
 
 
-## 💡 Why This Repo Exists
+## Why This Repo Exists
 
 I created this repository to:
 
@@ -51,20 +51,20 @@ I created this repository to:
 
 ---
 
-## 🤝 Contributions
+## Contributions
 
 This is a personal learning repository, but feel free to fork it or suggest improvements!
 
 ---
 
-## ⭐ Acknowledgements
+## Acknowledgements
 
 * Open-source NLP community
 * Research papers and online courses
 
 ---
 
-## 📬 Contact
+## Contact
 
 If you'd like to collaborate or discuss NLP, feel free to connect!
 
